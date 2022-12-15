@@ -1,0 +1,18 @@
+[
+  { "id": "meal1", "price": 10.55, "description": "Lots and lots of lettuce.", "name": "Caeser Salad" },
+  { "id": "meal2", "price": 9.99, "description": "Perfect for a cold winter's evening.", "name": "Tomato Soup" },
+  {
+    "id": "meal3",
+    "price": 29.99,
+    "description": "Cheese and pepperoni..... lots and lots of pepperoni",
+    "name": "Pepperoni Pizza"
+  },
+  {
+    "id": "meal4",
+    "price": 99.99,
+    "description": "Only the finest wine",
+    "name": "2000s Vintage Wine"
+  },
+  { "id": "meal5", "price": 5.11, "description": "What do you want its cheese and bread", "name": "Grilled cheese" },
+  { "id": "meal6", "price": 34.55, "description": "Juicy Steak", "name": "7oz Sirloin" }
+]
